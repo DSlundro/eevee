@@ -1,4 +1,8 @@
-# eevee
+# Eevee - Full SCSS
+
+
+https://user-images.githubusercontent.com/97912982/178059804-55ffaefa-5d2a-468e-ae8e-279325c5e9a9.mp4
+
 
 ## Project setup
 ```
